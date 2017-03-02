@@ -33,6 +33,40 @@
 <!--About me -->
 
 <section id="about" class="about">
+	<div class="container">
+
+			<p><h3 class="text-center">ABOUT ME</h3></p>
+			<br>
+			<div class="row animated fadeInUp"">
+			<div class="col-lg-4 text-center ">
+				<div class="card">
+				  <i class="fa fa-graduation-cap fa-5x "></i>
+	            <div class="card-block">
+	            <h4 class="card-title">EDUCATION</h4>	
+			  </div>
+	          </div>
+		    </div>
+		    <div class="col-lg-4 text-center">
+			    <div class="card">
+		  <i class="fa fa-wrench fa-5x "></i>
+		  <div class="card-block">
+		    <h4 class="card-title">SKILL</h4>
+
+		  </div>
+		</div>
+				</div>
+			<div class="col-lg-4 text-center">
+
+				<div class="card">
+		<i class="fa fa-angellist fa-5x "></i>
+		<div class="card-block">
+		<h4 class="card-title">HOBBIES</h4>
+		
+		</div>
+		</div>
+			</div>
+		</div>
+		</div>
 
 </section>
 <!-- Portfoli0 -->
@@ -44,24 +78,24 @@
 	<br>
 	<div class="row animated zoomIn">
 		<div class="col-lg-4">
-			<img src="img/port1.jpg" alt="" class="img-responsive">
+			<img src="" alt="" class="img-responsive">
 		</div>
 		<div class="col-lg-4">
-			<img src="img/port2.jpg" alt="" class="img-responsive">
+			<img src="" alt="" class="img-responsive">
 		</div>
 		<div class="col-lg-4">
-			<img src="img/port3.jpg" alt="" class="img-responsive">
+			<img src="" alt="" class="img-responsive">
 		</div>
 	</div>
 	<div class="row animated zoomIn">
 		<div class="col-lg-4">
-			<img src="img/port2.jpg" alt="" class="img-responsive">
+			<img src="" alt="" class="img-responsive">
 		</div>
 		<div class="col-lg-4">
-			<img src="img/port3.jpg" alt="" class="img-responsive">
+			<img src="" alt="" class="img-responsive">
 		</div>
 		<div class="col-lg-4">
-			<img src="img/port1.jpg" alt="" class="img-responsive">
+			<img src="" alt="" class="img-responsive">
 		</div>
 	</div>
 </div>
