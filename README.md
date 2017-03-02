@@ -25,7 +25,7 @@
 	</div> -->
 	     <div class="intro-text ">
                 <div class="intro-lead-in animated fadeInRight">Welcome To My Portfolio!</div>
-                <div class="intro-heading"><img src="img/profile.png" alt="Profile Pics" class="img-circle img-responsive center-block animated fadeInRight"><p class="animated fadeInLeft">Victor Alagwu</p><p class="animated zoomIn">Computer Scientist | Web Developer | PHP Programmer | Tech Lover</p></div>
+                <div class="intro-heading"><img src="img/profile.jpg" alt="Profile Pics" class="img-circle img-responsive center-block animated fadeInRight"><p class="animated fadeInLeft">Victor Alagwu</p><p class="animated zoomIn">Computer Scientist | Web Developer | PHP Programmer | Tech Lover</p></div>
         </div>
     </div>
 </header>
