@@ -142,10 +142,10 @@
 	<div class="row">
 		<div class="col-lg-6">
 			<p><a href="https://twitter.com/i_jv_learner"><i class="fa fa-twitter fa-3x"></i></a></p>
-			<p><a href="https:://facebook.com/victor.alagwu"><i class="fa fa-facebook fa-3x"></i></a></p>
-			<p><a href="https:://instagram.com/victoralagwu"><i class="fa fa-instagram fa-3x"></i></a></p>
-			<p><a href="https:://github.com/victoralagwu"><i class="fa fa-github fa-3x"></i></a></p>
-			<p><a href="https:://linkedin.com/victoralagwu"><i class="fa fa-linkedin fa-3x"></i></a></p>
+			<p><a href="https://facebook.com/victor.alagwu"><i class="fa fa-facebook fa-3x"></i></a></p>
+			<p><a href="https://instagram.com/victoralagwu"><i class="fa fa-instagram fa-3x"></i></a></p>
+			<p><a href="https://github.com/victoralagwu"><i class="fa fa-github fa-3x"></i></a></p>
+			<p><a href="https://linkedin.com/victoralagwu"><i class="fa fa-linkedin fa-3x"></i></a></p>
 		</div>
 			<div class="col-lg-6">
 			<p class="text-center">
