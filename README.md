@@ -1,48 +1,16 @@
 ## Welcome to Victor Alagwu Site
-
-<!DOCTYPE html>
 <html>
 	<head>
 		<title>Victor | Portfolio </title>
-		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/style.css" rel="stylesheet">
-		<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="css/animated.css">
 	</head>
 <body id="home">
 <!--Nav Bar-->
 
-<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
-                </button>
-                <a class="navbar-brand page-scroll" href="#home">HOME</a>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#about">ABOUT US</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#portfolio">PORTFOLIO</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">CONTACT US</a>
-                    </li>
 
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container-fluid -->
-</nav>
 
 <!-- Main Content -->
 
@@ -65,45 +33,6 @@
 <!--About me -->
 
 <section id="about" class="about">
-	<div class="container">
-
-			<p><h3 class="text-center">ABOUT ME</h3></p>
-			<br>
-			<div class="row animated fadeInUp"">
-			<div class="col-lg-4 text-center ">
-				<div class="card">
-				  <i class="fa fa-graduation-cap fa-5x "></i>
-	            <div class="card-block">
-	            <h4 class="card-title">EDUCATION</h4>
-			    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-			    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-			  </div>
-	          </div>
-		    </div>
-		    <div class="col-lg-4 text-center">
-			    <div class="card">
-		  <i class="fa fa-wrench fa-5x "></i>
-		  <div class="card-block">
-		    <h4 class="card-title">SKILL</h4>
-		    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\</p>
-		    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-		  </div>
-		</div>
-				</div>
-			<div class="col-lg-4 text-center">
-
-				<div class="card">
-		<i class="fa fa-angellist fa-5x "></i>
-		<div class="card-block">
-		<h4 class="card-title">HOBBIES</h4>
-		<p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-		<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-		</div>
-		</div>
-			</div>
-		</div>
-		</div>
-
 
 </section>
 <!-- Portfoli0 -->
@@ -216,6 +145,6 @@
 </section>
 
   <script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
 </html>
