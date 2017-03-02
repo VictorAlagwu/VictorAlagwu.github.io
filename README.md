@@ -37,7 +37,7 @@
 
 			<p><h3 class="text-center">ABOUT ME</h3></p>
 			<br>
-			<div class="row animated fadeInUp"">
+			
 			<div class="col-lg-4 text-center ">
 				<div class="card">
 				  <i class="fa fa-graduation-cap fa-5x "></i>
@@ -45,7 +45,7 @@
 	            <h4 class="card-title">EDUCATION</h4>	
 			  </div>
 	          </div>
-		    </div>
+		   
 		    <div class="col-lg-4 text-center">
 			    <div class="card">
 		  <i class="fa fa-wrench fa-5x "></i>
