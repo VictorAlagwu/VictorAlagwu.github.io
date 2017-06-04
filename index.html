@@ -300,13 +300,13 @@
                   <!-- contact FORM-->
                   <div class="contactForm">
                      <!--MAIN FORM-->
-                     <form name="sentMessage" action="" method="POST" id="contactForm" novalidate>
+                     <form name="sentMessage" action="https://formspree.io/victoralagwu@gmail.com" method="POST" id="contactForm" novalidate>
                         <div class="form-group">
                            <input type="text" class="form-control" placeholder="Name* :" name="name" id="name" required data-validation-required-message="Please enter your name.">
                            <p class="help-block text-danger"></p>
                         </div>
                         <div class="form-group">
-                           <input type="email" class="form-control" placeholder="E-mail* :" name="email" id="email" required data-validation-required-message="Please enter your email address.">
+                           <input type="email" class="form-control" placeholder="E-mail* :" name="_replyto" id="email" required data-validation-required-message="Please enter your email address.">
                            <p class="help-block text-danger"></p>
                         </div>
                         <div class="form-group">
@@ -318,7 +318,7 @@
                            <p class="help-block text-danger"></p>
                         </div>
                         <div id="success"></div>
-                        <button type="submit" class="submit wow bounceIn">Send Message</button>
+                        <button type="submit" class="submit wow bounceIn" value="Send">Send Message</button>
                      </form>
                      <!--END Main form-->
                   </div>
