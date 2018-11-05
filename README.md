@@ -1,6 +1,6 @@
 # victoralagwu
 
-> Victor Alagwu Portfolio
+> Vue Project
 
 ## Build Setup
 
